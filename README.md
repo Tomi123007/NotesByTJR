@@ -1,2 +1,2 @@
 # NotesByTJR
-This is my simle Program to show and edit notes from your local nextcloud storage.
+This is my simle Sticky Notes Program. For each note in your local synced nextcloud storage it creates a sticky note on your desktop. Read the README file for details.
